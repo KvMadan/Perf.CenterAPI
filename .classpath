@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="C:/Dev/eclipse-workspace/PC-Rest-KM/commons-codec-1.6.jar"/>
+	<classpathentry kind="lib" path="C:/Dev/eclipse-workspace/PC-Rest-KM/httpclient-4.2.1.jar"/>
+	<classpathentry kind="lib" path="C:/Dev/eclipse-workspace/PC-Rest-KM/httpcore-4.2.1.jar"/>
+	<classpathentry kind="lib" path="C:/Dev/eclipse-workspace/PC-Rest-KM/commons-logging-1.1.1.jar"/>
+	<classpathentry kind="lib" path="C:/Dev/eclipse-workspace/PC-Rest-KM/commons-io-2.2.jar"/>
+	<classpathentry kind="lib" path="C:/Dev/eclipse-workspace/PC-Rest-KM/xstream-1.4.4.jar"/>
+	<classpathentry kind="lib" path="C:/Dev/eclipse-workspace/PC-Rest-KM/xmlpull-xpp3-1.1.4c.jar"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.6"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
